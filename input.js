@@ -23,6 +23,6 @@ const setupInput = (conn) => {
 return stdin;
 };
 
-
+ setupInput()
 
 module.exports = { setupInput };
